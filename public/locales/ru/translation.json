@@ -1,263 +1,263 @@
 {
   "audio": {
     "changeSpeed": {
-      "description": "调整音频播放速度，保音调不变，自由加快或减慢。",
-      "name": "调整音频速度",
-      "shortDescription": "快速更改音频播放速度"
+      "description": "Измените скорость воспроизведения аудио, сохраняя высоту тона, ускоряйте или замедляйте по своему усмотрению.",
+      "name": "Изменить скорость аудио",
+      "shortDescription": "Быстро изменить скорость воспроизведения"
     },
     "extractAudio": {
-      "description": "从视频中提取音轨，导出为 MP3、AAC、WAV 格式。",
-      "name": "提取音频",
-      "shortDescription": "一键提取视频中的音频文件"
+      "description": "Извлеките аудиодорожку из видео и сохраните в форматах MP3, AAC, WAV.",
+      "name": "Извлечь аудио",
+      "shortDescription": "Извлечь звук из видео в один клик"
     }
   },
   "baseFileInput": {
-    "copyFailed": "复制失败：{{error}}",
-    "dropFileHere": "将{{type}}拖放到此处",
-    "fileCopied": "文件复制成功",
-    "selectFileDescription": "点击选择{{type}}，或按 Ctrl+V 粘贴，也可直接拖放文件"
+    "copyFailed": "Ошибка копирования: {{error}}",
+    "dropFileHere": "Перетащите {{type}} сюда",
+    "fileCopied": "Файл успешно скопирован",
+    "selectFileDescription": "Нажмите для выбора {{type}}, вставьте через Ctrl+V или перетащите файл"
   },
   "categories": {
     "audio": {
-      "description": "音频处理工具——提取音频、调整速度、混音、变速不变调等。",
-      "title": "音频工具"
+      "description": "Аудио инструменты: извлечение звука, изменение скорости, микширование, смена темпа без потери тона.",
+      "title": "Аудио"
     },
     "converters": {
-      "description": "格式转换工具——图片、音频、视频、文档、文本互转。",
-      "title": "转换工具"
+      "description": "Конвертеры: изображения, аудио, видео, документы и текст любого формата.",
+      "title": "Конвертеры"
     },
     "csv": {
-      "description": "CSV 处理工具——格式转换、数据清洗、校验、去重、分析。",
-      "title": "CSV 工具"
+      "description": "Инструменты CSV: преобразование формата, очистка данных, проверка, удаление дублей и анализ.",
+      "title": "CSV инструменты"
     },
     "gif": {
-      "description": "GIF 动图工具——裁剪、旋转、加文字、改速度、提取帧、去背景。",
-      "title": "GIF 工具"
+      "description": "Инструменты GIF: обрезка, поворот, добавление текста, смена скорости, извлечение кадров, удаление фона.",
+      "title": "GIF инструменты"
     },
     "image-generic": {
-      "description": "图片处理工具——压缩、裁剪、旋转、格式转换、去背景。",
-      "title": "图片工具"
+      "description": "Работа с изображениями: сжатие, обрезка, поворот, конвертация, удаление фона.",
+      "title": "Изображения"
     },
     "json": {
-      "description": "JSON 处理工具——格式化、压缩、解析、校验、提取数据。",
-      "title": "JSON 工具"
+      "description": "Инструменты JSON: форматирование, сжатие, проверка, парсинг и извлечение данных.",
+      "title": "JSON инструменты"
     },
     "list": {
-      "description": "列表处理工具——排序、去重、反转、分组、随机、筛选。",
-      "title": "列表工具"
+      "description": "Работа со списками: сортировка, удаление дублей, инверсия, группировка, случайный порядок, фильтрация.",
+      "title": "Списки"
     },
     "number": {
-      "description": "数字计算工具——求和、生成序列、进制转换、统计分析。",
-      "title": "数字工具"
+      "description": "Математические инструменты: суммирование, генерация последовательностей, перевод систем счисления, статистика.",
+      "title": "Числа"
     },
     "pdf": {
-      "description": "PDF 处理工具——合并、拆分、压缩、加密、格式转换。",
-      "title": "PDF 工具"
+      "description": "Инструменты PDF: объединение, разделение, сжатие, защита паролем, конвертация форматов.",
+      "title": "PDF"
     },
     "png": {
-      "description": "PNG 专用工具——压缩、透明处理、格式转换、裁剪。",
-      "title": "PNG 工具"
+      "description": "Инструменты PNG: сжатие, прозрачность, конвертация, обрезка.",
+      "title": "PNG инструменты"
     },
-    "seeAll": "查看全部 {{title}}",
+    "seeAll": "Посмотреть все {{title}}",
     "string": {
-      "description": "文本处理工具——大小写转换、查找替换、分割、拼接、去重。",
-      "title": "文本工具"
+      "description": "Текстовые инструменты: смена регистра, поиск и замена, разделение, объединение, удаление дублей.",
+      "title": "Текст"
     },
     "time": {
-      "description": "时间日期工具——时区转换、时间差计算、日期格式化。",
-      "title": "时间工具"
+      "description": "Дата и время: пересчет часовых поясов, расчет разницы времени, форматирование дат.",
+      "title": "Время и дата"
     },
-    "try": "立即使用 {{title}}",
+    "try": "Использовать {{title}}",
     "video": {
-      "description": "视频处理工具——裁剪、合并、转 GIF、提取帧、格式转换。",
-      "title": "视频工具"
+      "description": "Видео инструменты: обрезка, объединение, конвертация в GIF, извлечение кадров, смена формата.",
+      "title": "Видео"
     },
     "xml": {
-      "description": "XML 处理工具——格式化、校验、解析、查看结构。",
-      "title": "XML 工具"
+      "description": "Инструменты XML: форматирование, проверка, парсинг, просмотр структуры.",
+      "title": "XML инструменты"
     }
   },
   "csv": {
     "findIncompleteCsvRecords": {
-      "description": "自动检查 CSV 文件，快速定位缺失数据、不完整行与异常列。",
-      "name": "检查不完整数据",
-      "shortDescription": "快速查找 CSV 缺失值与错误行"
+      "description": "Автоматическая проверка CSV, быстрый поиск пропущенных данных, неполных строк и ошибочных столбцов.",
+      "name": "Проверить неполные данные",
+      "shortDescription": "Поиск пропусков и ошибок в CSV"
     }
   },
   "hero": {
-    "brand": "全能工具箱",
-    "description": "一站式在线实用工具平台，无需安装、打开即用，高效处理图片、文本、视频、PDF 与数据。",
+    "brand": "Универсальный набор инструментов",
+    "description": "Платформа онлайн-инструментов без установки. Работайте с изображениями, текстом, видео, PDF и данными быстро и легко.",
     "examples": {
-      "calculateNumberSum": "数字求和",
-      "changeGifSpeed": "调整 GIF 速度",
-      "compressPng": "压缩 PNG",
-      "createTransparentImage": "制作透明图片",
-      "prettifyJson": "JSON 格式化",
-      "sortList": "列表排序",
-      "splitPdf": "拆分 PDF",
-      "splitText": "分割文本",
-      "trimVideo": "裁剪视频"
+      "calculateNumberSum": "Сумма чисел",
+      "changeGifSpeed": "Скорость GIF",
+      "compressPng": "Сжать PNG",
+      "createTransparentImage": "Прозрачное изображение",
+      "prettifyJson": "Форматировать JSON",
+      "sortList": "Отсортировать список",
+      "splitPdf": "Разделить PDF",
+      "splitText": "Разделить текст",
+      "trimVideo": "Обрезать видео"
     },
     "search": {
-      "placeholder": "搜索工具",
-      "noResult": "未找到相关工具，请更换关键词重试"
+      "placeholder": "Поиск инструментов",
+      "noResult": "Инструментов не найдено, попробуйте другие ключевые слова"
     },
-    "title": "高效处理，一键完成"
+    "title": "Быстрая обработка в один клик"
   },
   "inputFooter": {
-    "clear": "清空",
-    "copyToClipboard": "复制到剪贴板",
-    "importFromFile": "从文件导入"
+    "clear": "Очистить",
+    "copyToClipboard": "Скопировать в буфер",
+    "importFromFile": "Импортировать из файла"
   },
   "list": {
     "group": {
-      "description": "按条件自动分组列表，支持自定义分隔符，数据整理更轻松。",
-      "name": "列表分组",
-      "shortDescription": "按规则对列表内容自动分组"
+      "description": "Автоматическая группировка списков по правилам с поддержкой пользовательских разделителей.",
+      "name": "Группировать список",
+      "shortDescription": "Группировка содержимого списка"
     },
     "reverse": {
-      "description": "一键反转列表顺序，支持自定义分隔符，简单高效。",
-      "name": "列表反转",
-      "shortDescription": "快速反转列表顺序"
+      "description": "Инвертировать порядок списка в один клик, поддержка произвольных разделителей.",
+      "name": "Инвертировать список",
+      "shortDescription": "Перевернуть порядок списка"
     },
     "sort": {
-      "description": "支持字母、数字、长度排序，可去重、去空行、自定义分隔符。",
-      "name": "列表排序",
-      "shortDescription": "智能排序、去重、整理列表"
+      "description": "Сортировка по буквам, числам и длине, удаление дублей и пустых строк.",
+      "name": "Отсортировать список",
+      "shortDescription": "Сортировка, очистка и удаление дублей"
     }
   },
   "navbar": {
-    "buyMeACoffee": "支持作者",
-    "hireMe": "商务合作",
-    "home": "首页",
-    "tools": "全部工具"
+    "buyMeACoffee": "Поддержать",
+    "hireMe": "Сотрудничество",
+    "home": "Главная",
+    "tools": "Все инструменты"
   },
   "number": {
     "generate": {
-      "description": "自定义范围与数量，快速生成连续或随机数字序列。",
-      "name": "生成数字",
-      "shortDescription": "快速生成指定规则的数字序列"
+      "description": "Генерация последовательностей чисел по диапазону и количеству, непрерывных или случайных.",
+      "name": "Сгенерировать числа",
+      "shortDescription": "Создать числовые последовательности"
     },
     "sum": {
-      "description": "自动计算一组数字总和，支持任意分隔符，一键得出结果。",
-      "name": "数字求和",
-      "shortDescription": "快速计算数字总和"
+      "description": "Автоматический расчет суммы чисел с любыми разделителями.",
+      "name": "Сумма чисел",
+      "shortDescription": "Быстро посчитать сумму"
     }
   },
   "numericInputWithUnit": {
-    "unit": "单位"
+    "unit": "Единица"
   },
   "pdf": {
     "compressPdf": {
-      "description": "压缩 PDF 体积，保持清晰度，本地处理更安全。",
-      "name": "压缩 PDF",
-      "shortDescription": "本地压缩 PDF，不损失质量"
+      "description": "Сжать размер PDF без потери четкости, локальная обработка безопаснее.",
+      "name": "Сжать PDF",
+      "shortDescription": "Сжатие PDF без потери качества"
     },
     "mergePdf": {
-      "description": "将多个 PDF 文件合并为一个，顺序自由调整。",
-      "name": "合并 PDF",
-      "shortDescription": "一键合并多个 PDF 文件"
+      "description": "Объединить несколько PDF в один с произвольным порядком страниц.",
+      "name": "Объединить PDF",
+      "shortDescription": "Склеить несколько PDF файлов"
     },
     "pdfToEpub": {
-      "description": "将 PDF 转为 EPUB 格式，适配电子书阅读器。",
-      "name": "PDF 转 EPUB",
-      "shortDescription": "PDF 转电子书格式"
+      "description": "Преобразовать PDF в формат EPUB для электронных книг.",
+      "name": "PDF в EPUB",
+      "shortDescription": "Конвертировать PDF в книгу EPUB"
     },
     "protectPdf": {
-      "description": "给 PDF 添加密码保护，防止随意打开与编辑。",
-      "name": "PDF 加密",
-      "shortDescription": "为 PDF 设置密码保护"
+      "description": "Защитить PDF паролем от несанкционированного открытия и редактирования.",
+      "name": "Защитить PDF",
+      "shortDescription": "Установить пароль на PDF"
     },
     "splitPdf": {
-      "description": "按页码或范围拆分 PDF，提取指定页面。",
-      "name": "拆分 PDF",
-      "shortDescription": "按页码拆分/提取 PDF 页面"
+      "description": "Разделить PDF по страницам и извлечь отдельные страницы.",
+      "name": "Разделить PDF",
+      "shortDescription": "Разделить PDF или извлечь страницы"
     }
   },
   "resultFooter": {
-    "copy": "复制",
-    "download": "下载"
+    "copy": "Копировать",
+    "download": "Скачать"
   },
   "string": {
     "createPalindrome": {
-      "description": "输入任意文本，一键生成正反读法一致的回文。",
-      "name": "生成回文",
-      "shortDescription": "快速创建回文文本"
+      "description": "Введите любой текст и создайте палиндром за один клик.",
+      "name": "Создать палиндром",
+      "shortDescription": "Быстрая генерация палиндрома"
     },
     "palindrome": {
-      "description": "检测文本是否为回文，支持多词、带符号验证。",
-      "name": "回文检测",
-      "shortDescription": "检查文本是否为回文"
+      "description": "Проверить, является ли текст палиндромом, с поддержкой слов и символов.",
+      "name": "Проверить палиндром",
+      "shortDescription": "Проверка текста на палиндром"
     },
     "repeat": {
-      "description": "重复文本多次，可自定义间隔符与重复次数。",
-      "name": "重复文本",
-      "shortDescription": "批量重复文本"
+      "description": "Повторить текст нужное количество раз с настраиваемым разделителем.",
+      "name": "Повторить текст",
+      "shortDescription": "Массовое повторение текста"
     },
     "reverse": {
-      "description": "一键反转文本字符顺序，保留格式与特殊符号。",
-      "name": "文本反转",
-      "shortDescription": "快速反转文本内容"
+      "description": "Перевернуть символы текста с сохранением форматирования и знаков.",
+      "name": "Перевернуть текст",
+      "shortDescription": "Инвертировать содержимое текста"
     },
     "toMorse": {
-      "description": "文本与摩斯密码互转，简洁高效。",
-      "name": "摩斯密码转换",
-      "shortDescription": "文本 ↔ 摩斯密码互转"
+      "description": "Преобразовать текст в азбуку Морзе и обратно.",
+      "name": "Азбука Морзе",
+      "shortDescription": "Текст ↔ Азбука Морзе"
     },
     "uppercase": {
-      "description": "一键将文本转为全大写，标准化输出。",
-      "name": "转为大写",
-      "shortDescription": "文本快速转为大写"
+      "description": "Перевести весь текст в верхний регистр для стандартного вывода.",
+      "name": "В верхний регистр",
+      "shortDescription": "Сделать текст заглавными буквами"
     }
   },
   "toolExamples": {
-    "subtitle": "点击即可使用",
-    "title": "{{title}} 快捷使用"
+    "subtitle": "Нажмите для использования",
+    "title": "Быстрый доступ {{title}}"
   },
   "toolFileResult": {
-    "copied": "文件已复制",
-    "copyFailed": "复制失败：{{error}}",
-    "loading": "处理中，请稍候…",
-    "result": "处理结果"
+    "copied": "Файл скопирован",
+    "copyFailed": "Ошибка копирования: {{error}}",
+    "loading": "Обработка, подождите…",
+    "result": "Результат"
   },
   "toolHeader": {
-    "seeExamples": "查看示例"
+    "seeExamples": "Посмотреть примеры"
   },
   "toolLayout": {
-    "allToolsTitle": "全部 {{type}}"
+    "allToolsTitle": "Все {{type}}"
   },
   "toolsByCategory": {
-    "noResultsTitle": "未找到工具",
-    "noResultsDescription": "请更换关键词或筛选条件重试"
+    "noResultsTitle": "Инструментов не найдено",
+    "noResultsDescription": "Попробуйте другие слова или фильтры"
   },
   "toolMultiFileResult": {
-    "copied": "文件已复制",
-    "copyFailed": "复制失败：{{error}}",
-    "loading": "处理中，请稍候…",
-    "result": "处理结果"
+    "copied": "Файл скопирован",
+    "copyFailed": "Ошибка копирования: {{error}}",
+    "loading": "Обработка, подождите…",
+    "result": "Результат"
   },
   "toolMultipleInput": {
-    "inputTitle": "选择 {{type}}",
-    "noFilesSelected": "未选择文件",
-    "deleteFile": "删除文件"
+    "inputTitle": "Выбрать {{type}}",
+    "noFilesSelected": "Файл не выбран",
+    "deleteFile": "Удалить файл"
   },
   "toolOptions": {
-    "title": "参数设置"
+    "title": "Настройки"
   },
   "toolTextInput": {
-    "copied": "复制成功",
-    "copyFailed": "复制失败：{{error}}",
-    "input": "输入内容",
-    "placeholder": "请输入文本…"
+    "copied": "Скопировано успешно",
+    "copyFailed": "Ошибка копирования",
+    "input": "Ввод текста",
+    "placeholder": "Введите текст…"
   },
   "toolTextResult": {
-    "copied": "复制成功",
-    "copyFailed": "复制失败：{{error}}",
-    "loading": "处理中，请稍候…",
-    "result": "处理结果"
+    "copied": "Скопировано успешно",
+    "copyFailed": "Ошибка копирования",
+    "loading": "Обработка, подождите…",
+    "result": "Результат"
   },
   "userTypes": {
-    "developers": "开发者",
-    "generalUsers": "普通用户"
+    "developers": "Разработчики",
+    "generalUsers": "Обычные пользователи"
   }
 }
